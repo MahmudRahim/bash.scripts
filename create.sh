@@ -9,7 +9,7 @@ function create_file () {
 
 }
  
-echo "creating file $FILENAME"
+echo "destroying file $FILENAME"
 
 create_file
 
